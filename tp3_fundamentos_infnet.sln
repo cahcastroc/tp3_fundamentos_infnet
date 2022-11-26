@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp3_fundamentos_infnet", "tp3_fundamentos_infnet\tp3_fundamentos_infnet.csproj", "{56487C3D-1B02-419D-B7EE-17121DDB2093}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8B96791E-EB04-453F-84AF-3F9B694F35BB} = {8B96791E-EB04-453F-84AF-3F9B694F35BB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PessoaLibrary", "PessoaLibrary\PessoaLibrary.csproj", "{8B96791E-EB04-453F-84AF-3F9B694F35BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56487C3D-1B02-419D-B7EE-17121DDB2093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56487C3D-1B02-419D-B7EE-17121DDB2093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56487C3D-1B02-419D-B7EE-17121DDB2093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56487C3D-1B02-419D-B7EE-17121DDB2093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B96791E-EB04-453F-84AF-3F9B694F35BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B96791E-EB04-453F-84AF-3F9B694F35BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B96791E-EB04-453F-84AF-3F9B694F35BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B96791E-EB04-453F-84AF-3F9B694F35BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803A42E1-0A99-4ADF-BEB5-ECC273B2EAE7}
+	EndGlobalSection
+EndGlobal
